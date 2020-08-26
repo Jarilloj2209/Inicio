@@ -5,5 +5,5 @@
 #include <iostream>
 struct Vaso{
     float ri;
-
+DECCCXCXCSDF
 };
