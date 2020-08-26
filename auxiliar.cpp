@@ -5,5 +5,5 @@
 #include <iostream>
 struct Vaso{
     float ri;
-DECCCXCXCSDF
+y vuelvo a lo mismo no se que pasa
 };
