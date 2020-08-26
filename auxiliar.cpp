@@ -5,6 +5,5 @@
 #include <iostream>
 struct Vaso{
     float ri;
-    float rs;
 
 };
